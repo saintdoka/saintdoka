@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá, Eu sou o Matheus e este é meu perfil que utilizo para atividades da ETEC!
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saintdoka&theme=bear&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdoka&theme=bear)](https://github.com/saintdoka/github-readme-stats)
+
+
 
 <!--
 **saintdoka/saintdoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
